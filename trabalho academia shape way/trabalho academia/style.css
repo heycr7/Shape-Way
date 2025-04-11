@@ -1,0 +1,79 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgba(46,88,94,255);
+    font-style: oblique;
+   
+}
+
+header {
+    background-image: url(img/Home\ \(2\).png);
+    padding: 130px;
+}
+
+article {
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgba(0,45,57,255);
+    padding: 25px;
+    color: rgb(212, 212, 212);
+}
+
+.imgdieta{
+    padding: 10px;
+    margin-right: 280px;
+    background-color: rgba(2,58,69,255);
+    align-items: center;
+}
+
+.video {
+    padding: 10px;
+    margin-right: 280px;
+    background-color: rgba(2,58,69,255);
+}
+
+
+.titulo1 h1 {
+    font-size: 30px;
+    padding: 7px;
+    margin-right: 280px;
+    background-color: rgba(2,58,69,255);;
+}
+
+.titulo2 h1 {
+    font-size: 30px;
+    padding: 7px;
+    margin-right: 120px;
+    background-color: rgba(2,58,69,255);;
+}
+
+.titulo3 h1 {
+    font-size: 30px;
+    padding: 7px;
+    margin-right: 250px;
+    background-color:rgba(2,58,69,255);;
+}
+
+h2 {
+    font-size: 25px;
+    padding: 7px;
+}
+
+h3 {
+    font-size: 20;
+    padding: 5px;
+}
+
+p {
+    padding: 4px;
+}
+
+footer {
+    color: aliceblue;
+    margin: 20px;
+    text-align: center;
+}
+
